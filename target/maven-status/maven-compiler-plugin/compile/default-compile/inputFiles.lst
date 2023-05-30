@@ -1,0 +1,11 @@
+/Users/gabrieltiteux/Downloads/SpringBootCours/src/main/java/org/example/exceptions/NoInstanceFoundException.java
+/Users/gabrieltiteux/Downloads/SpringBootCours/src/main/java/org/example/models/User.java
+/Users/gabrieltiteux/Downloads/SpringBootCours/src/main/java/org/example/exceptions/ApiHandleException.java
+/Users/gabrieltiteux/Downloads/SpringBootCours/src/main/java/org/example/models/Logement.java
+/Users/gabrieltiteux/Downloads/SpringBootCours/src/main/java/org/example/controllers/LogementControlleur.java
+/Users/gabrieltiteux/Downloads/SpringBootCours/src/main/java/org/example/controllers/UserControleur.java
+/Users/gabrieltiteux/Downloads/SpringBootCours/src/main/java/org/example/App.java
+/Users/gabrieltiteux/Downloads/SpringBootCours/src/main/java/org/example/repositories/LogementRepository.java
+/Users/gabrieltiteux/Downloads/SpringBootCours/src/main/java/org/example/services/LogementService.java
+/Users/gabrieltiteux/Downloads/SpringBootCours/src/main/java/org/example/repositories/UserRepository.java
+/Users/gabrieltiteux/Downloads/SpringBootCours/src/main/java/org/example/services/UserService.java
